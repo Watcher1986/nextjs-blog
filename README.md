@@ -1,16 +1,9 @@
-Next.js [Learn Next.js](https://nextjs.org/learn).# nextjs-blog
+# Next.js-blog
 
----
+#### To itstall the project run [npm i(install)]
 
-To itstall the project run [npm i(install)] 
-To run project run command in terminal [npm run dev]
+#### To run project run command in terminal [npm run dev]
 
-# Next.js Blog
-
-[npm start] "Starting project"
-[npm run build] "Building project"
-
-link to deployed app : https://sharp-spence-cb0eff.netlify.app/   
 ## [Project Link](https://nextjs-blog-kappa-sooty-16.vercel.app/)
 
 ---
@@ -24,16 +17,17 @@ link to deployed app : https://sharp-spence-cb0eff.netlify.app/
 - [License](#license)
 - [Author Info](#author-info)
 
-[Back To The Top](#airport-board)
+[Back To The Top](#Next.js-blog)
 
 ---
 
 ## Description
 
-Simple blog page created with Next.js 
+Simple blog page created with Next.js
 
 #### Technologies
 
+- [Next.js](https://nextjs.org/learn)
 - [React JS](https://reactjs.org/)
 - [React Hooks](https://reactjs.org/docs/hooks-overview.html)
 - [JS](https://developer.mozilla.org/ru/docs/Web/JavaScript)
@@ -44,7 +38,7 @@ Simple blog page created with Next.js
 - [SASS (SCSS)](https://sass-lang.com/)
 - [BEM methodology](https://en.bem.info/methodology/)
 
-[Back To The Top](#Next.js Blog)
+[Back To The Top](#Next.js-blog)
 
 ---
 
@@ -54,4 +48,4 @@ Simple blog page created with Next.js
 
 ## Author Info
 
-Sokolenko Denis
+#### Sokolenko Denis

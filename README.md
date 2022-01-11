@@ -1,4 +1,4 @@
-# Next.js-blog
+# Nextjs-blog
 
 #### To itstall the project run [npm i(install)]
 
@@ -17,7 +17,7 @@
 - [License](#license)
 - [Author Info](#author-info)
 
-[Back To The Top](#Next.js-blog)
+[Back To The Top](#Nextjs-blog)
 
 ---
 
@@ -38,7 +38,7 @@ Simple blog page created with Next.js
 - [SASS (SCSS)](https://sass-lang.com/)
 - [BEM methodology](https://en.bem.info/methodology/)
 
-[Back To The Top](#Next.js-blog)
+[Back To The Top](#Nextjs-blog)
 
 ---
 
